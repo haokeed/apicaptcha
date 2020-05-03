@@ -1,6 +1,6 @@
 <?php
 
-namespace haokeed\apicaptcha;
+namespace Haokeed\Captcha;
 /**
  * 图形验证码
  * User: wangyongqiang
