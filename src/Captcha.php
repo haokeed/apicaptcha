@@ -1,4 +1,6 @@
 <?php
+
+namespace haokeed\apicaptcha;
 /**
  * 图形验证码
  * User: wangyongqiang
